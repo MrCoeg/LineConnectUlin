@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c977fd9b6779d45811be9816c3db5b, type: 3}
+  m_Name: LevelDataProperties
+  m_EditorClassIdentifier: 
+  levels:
+  - nodes:
+    - pathIds: 0200000001000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000ffffffff01000000ffffffff02000000ffffffff00000000
+    - pathIds: ffffffffffffffffffffffff00000000ffffffff02000000ffffffffffffffff0000000001000000ffffffffffffffff01000000ffffffffffffffff02000000
+    - pathIds: 02000000ffffffffffffffffffffffff00000000ffffffff0100000002000000ffffffffffffffffffffffff01000000ffffffffffffffffffffffff00000000
+    - pathIds: 00000000ffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffff0100000002000000ffffffff0100000002000000ffffffffffffffff
+    - pathIds: ffffffff000000000100000002000000ffffffffffffffffffffffffffffffffffffffffffffffff01000000ffffffffffffffff0000000002000000ffffffff
+    - pathIds: 01000000ffffffffffffffffffffffffffffffffffffffff020000000100000000000000ffffffffffffffff0200000000000000ffffffffffffffffffffffff
+    - pathIds: 0000000000000000ffffffff01000000ffffffffffffffffffffffffffffffff02000000ffffffff02000000ffffffffffffffffffffffff01000000ffffffff
+    - pathIds: ffffffff010000000200000000000000ffffffffffffffffffffffffffffffffffffffffffffffff00000000ffffffff0100000002000000ffffffffffffffff
+    - pathIds: 0000000001000000ffffffffffffffffffffffffffffffffffffffffffffffff0200000000000000ffffffff01000000ffffffffffffffffffffffff02000000
+    - pathIds: 00000000ffffffff0200000001000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000200000001000000ffffffff
+  - nodes: []
+  - nodes: []
+  - nodes: []
+  - nodes: []
+  - nodes: []
+  - nodes: []
+  - nodes: []
+  - nodes: []
+  - nodes: []
